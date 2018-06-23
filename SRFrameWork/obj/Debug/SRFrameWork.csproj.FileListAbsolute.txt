@@ -1,0 +1,13 @@
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\bin\Debug\SRFrameWork.dll
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\bin\Debug\SRFrameWork.pdb
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\bin\Debug\ControlzEx.dll
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\bin\Debug\MahApps.Metro.dll
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\bin\Debug\System.Windows.Interactivity.dll
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\bin\Debug\ControlzEx.pdb
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\bin\Debug\MahApps.Metro.pdb
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\bin\Debug\MahApps.Metro.xml
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\obj\Debug\SRFrameWork.csprojResolveAssemblyReference.cache
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\obj\Debug\SRFrameWork.csproj.CoreCompileInputs.cache
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\obj\Debug\SRFrameWork.csproj.CopyComplete
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\obj\Debug\SRFrameWork.dll
+D:\AppRoot\WorkSideProjects\Projects\SRFramework\SRFrameWork\obj\Debug\SRFrameWork.pdb
